@@ -4,7 +4,7 @@ Output paths:
 
 On simulator:
 
-/Users/<username>/Library/Developer/Xcode/DerivedData/simulatorLoadFrameworkExample-gmxyfcrvpmdfgqepjbbysebvysmh/Build/Products/Debug-iphonesimulator/libsimple.dylib
+/Users/username/Library/Developer/Xcode/DerivedData/simulatorLoadFrameworkExample-gmxyfcrvpmdfgqepjbbysebvysmh/Build/Products/Debug-iphonesimulator/libsimple.dylib
 
 On device:
 
